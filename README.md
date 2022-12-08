@@ -20,3 +20,15 @@ then,
 sudo ./start_Network.sh
 ```
 
+For the front end start up
+
+```shell
+npm install streamlit
+npm install web3
+```
+
+then you could do
+
+```shell
+streamlit run .\EHDID.py
+```
